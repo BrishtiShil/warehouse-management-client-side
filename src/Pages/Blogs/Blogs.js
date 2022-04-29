@@ -3,7 +3,7 @@ import React from 'react';
 const Blogs = () => {
     return (
         <div>
-            <h2>Difference between javascript and nodejs</h2>
+            <h2>1. Difference between javascript and nodejs</h2>
             <p>
 
                 <strong>Javascript</strong><br />
@@ -24,7 +24,7 @@ const Blogs = () => {
             </p>
 
 
-            <h2>When should i use nodejs and when should i use mongodb</h2>
+            <h2>2. When should i use nodejs and when should i use mongodb</h2>
             <p>
                 Node.js runs Javascript, so i can use the same language on server and client, and even share some code between them.It's primarily used for non-blocking, event-driven servers, due to its single-threaded nature. It's used for traditional web sites and back-end API services. But was designed with real-time, push-based architectures in mind. If my use case does not contain CPU intensive operations nor access any blocking resources, i can exploit the benefits of Node.js and enjoy fast and scalable network applications.<br />
 
@@ -32,7 +32,7 @@ const Blogs = () => {
             </p>
 
 
-            <h2>Differences between sql and nosql databases.</h2>
+            <h2>3. Differences between sql and nosql databases.</h2>
             <p>
                 <strong>Sql</strong><br />
                 1. Relational Database Management System.<br />
@@ -49,7 +49,7 @@ const Blogs = () => {
             </p>
 
 
-            <h2>What is the purpose of jwt and how does it work</h2>
+            <h2>4. What is the purpose of jwt and how does it work</h2>
             <p>
                 A JWT is a mechanism to verify the owner of some JSON data. The server generates a token that certifies the user identity, and sends it to the client. The client will send the token back to the server for every subsequent request, so the server knows the request comes from a particular identity.<br />
                 In authentication, when the user successfully logs in using their credentials, a JSON Web Token will be returned. Since tokens are credentials, great care must be taken to prevent security issues. In general, you should not keep tokens longer than required.Whenever the user wants to access a protected route or resource, the user agent should send the JWT, typically in the Authorization header using the Bearer schema.
