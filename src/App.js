@@ -14,12 +14,6 @@ function App() {
         <Route path="/" element={<Blogs></Blogs>}></Route>
       </Routes>
       <Footer></Footer>
-      {/* <Header></Header>
-      <Routes>
-        <Route path='/' element={<Home></Home>}></Route>
-        <Route path='/blogs' element={<Blogs></Blogs>}></Route>
-      </Routes>
-      <Footer></Footer> */}
     </div>
   );
 }
