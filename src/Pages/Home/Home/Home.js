@@ -1,10 +1,10 @@
 import React from 'react';
-import Inventory from '../../Inventory/Inventory';
+import Inventorys from '../../Inventorys/Inventorys';
 
 const Home = () => {
     return (
         <div>
-            <Inventory></Inventory>
+            <Inventorys></Inventorys>
         </div>
     );
 };

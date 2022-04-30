@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "name": "Pavilion x360 Convertible 14-dy1290TU",
+        "price": " 126,950",
+        "quantity": "4",
+        "suplierName": "",
+        "description": "HP Pavilion x360 Convertible 14-dy1290TU Touch Laptop comes with Intel Core i5-1155G7 (8M Cache, 2.50 GHz up to 4.50 GHz) and 8 GB DDR4-3200 MHz RAM (2 x 4 GB). It comes with 512 GB PCIe NVMe M.2 SSD.This laptop runs on Windows 10 Home 64-bit operating system. It offers Audio by B&O; Dual speakers; HP Audio Boost, Full-size, backlit, natural silver keyboard, TouchPad, HP Wide Vision 720p HD camera with integrated dual array digital microphones.",
+        "img": "https://i.ibb.co/Np9Wpyv/gsmarena-001-1.png"
+    },
+    {
+        "id": 2,
+        "name": "Dell Inspiron 15 3511",
+        "price": " 66,190",
+        "quantity": "5",
+        "suplierName": "",
+        "description": "Laptop Brand - Dell, Laptop Series - Inspiron, Laptop Model - Dell Inspiron 15 3511, Processor Brand - Intel, Processor Type - Intel Core i3, Processor Generation - 11th Gen, Processor Model - Core i3 1115G4,Display Size - 15.6 Inch, Display Technology - FHD LED Display,Memory (RAM) - 4GB, Memory Type - DDR4, Memory Bus (MHz) - 2666 MHz, Storage - 256GB SSDOperating System - Windows 10 Home,Warranty - 2 Year.",
+        "img": "https://i.ibb.co/Cz99Fp5/img1.png"
+    },
+    {
+        "id": 3,
+        "name": "Asus X515MA",
+        "price": "38,520",
+        "quantity": "5",
+        "suplierName": "",
+        "description": "Laptop Brand - Asus, Laptop Model - Asus X515MA, Processor Brand - Intel, Processor Type - Intel Celeron Dual Core, Processor Model - CDC N4020, Processor Base Frequency - 1.10 GHz, Processor Max Turbo Frequency - 2.80 GHz, Processor Core - 2, Processor Thread - 2, Processor Cache - 4MB, Display Size - 15.6 Inch, Display Technology - HD LED Display, Display Resolution - 1366 x 768, Memory (RAM) - 4GB, Memory Type - DDR4, Storage - 1TB HDD,Warranty - 2 Year International ",
+        "img": "https://i.ibb.co/b1RKMCm/img2.png"
+    },
+    {
+        "id": 4,
+        "name": "Apple MacBook Pro",
+        "price": " 126,950",
+        "quantity": "6",
+        "suplierName": "",
+        "description": "Apple MacBook Pro Late 2020 Apple M1 Chip 13.3 Inch Retina Display Touch Bar and Touch ID Space Gray Laptop is a high range laptop in Bangladesh. Apple MacBook Pro (Late 2020) is a Apple brand laptop. Right Now available the Apple MacBook Pro Late 2020 Apple M1 Chip 13.3 Inch Retina Display Touch Bar and Touch ID Space Gray Laptop includes all Ryans computers branches and our website.RAM:8GB,Storage:512GB SSD,Warranty:1 year",
+        "img": "https://i.ibb.co/n3VvJz1/img3.png"
+    },
+    {
+        "id": 5,
+        "name": "Lenovo IdeaPad Slim 3i 15ITL",
+        "price": "47,200",
+        "quantity": "6",
+        "suplierName": "",
+        "description": "Laptop Brand- Lenovo, Laptop Model- Lenovo IdeaPad Slim 3i 15ITL, Processor Brand- Intel, Processor Type- Intel Core i3, Processor Generation- 10th, Processor Model- Core i3 1005G1, Processor Base Frequency- 1.20 GHz, Processor Max Turbo Frequency- 3.40 GHz, Processor Core- 2, Processor Thread- 4, Processor Cache- 4MB, Display Size- 15.6 Inch, Display Technology- HD IPS LED Display, Display Resolution- 1366 x 768, Display Surface- Anti-Glare, Memory (RAM)- 4GB, Memory Type- DDR4, Storage- 1TB HDD,Warranty- 2 Year International.",
+        "img": "https://i.ibb.co/68DwsYN/img4.png"
+    },
+    {
+        "id": 6,
+        "name": "Avita LIBER V",
+        "price": "96,570",
+        "quantity": "5",
+        "suplierName": "",
+        "description": "Avita LIBER V Intel Core i7 10510U 14 Inch FHD Display Champagne Gold Laptop is a high range laptop in Bangladesh. Avita LIBER V is a Avita brand laptop.Avita LIBER V comes with 10th Gen Intel Core i7 10510U processor. The Processor base frequency is 1.80 GHz to 4.90 GHz. 10th Gen Intel Core i7 10510U has 4 core and 8 Thread.The Avita LIBER V laptop has DDR4 16GB RAM.Storage: 1TB SSD,Finger Print Sensor: Yes,Warranty: 2 year (Battery, Adapter 1 year)",
+        "img": "https://i.ibb.co/Vx6Ymhn/img5.png"
+    }
+]
