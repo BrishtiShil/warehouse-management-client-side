@@ -10,8 +10,8 @@ const Inventorys = () => {
             .then(data => setInventorys(data));
     }, [])
     return (
-        <div>
-            <h2 className='inventory-title'>Our Inventory</h2>
+        <div >
+            <h1 className='inventory-title mt-5'>Our Inventory</h1>
             <div className='inventory-container'>
                 {
                     inventorys.map(inventory => <Inventory

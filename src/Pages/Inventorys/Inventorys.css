@@ -1,12 +1,12 @@
 .inventory-title {
     text-align: center;
-    color: gray;
+    color: blueviolet;
     margin-top: 5px;
 }
 
 .inventory-container {
     display: grid;
-    grid-template-columns: repeat(3, 1fr);
+    grid-template-columns: repeat(2, 1fr);
     grid-gap: 20px;
 }
 
