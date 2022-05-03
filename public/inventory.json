@@ -1,56 +1,110 @@
 [
     {
-        "id": 1,
+        "id": "1",
         "name": "Pavilion x360 Convertible 14-dy1290TU",
         "price": " 126,950",
         "quantity": "4",
-        "suplierName": "",
-        "description": "HP Pavilion x360 Convertible 14-dy1290TU Touch Laptop comes with Intel Core i5-1155G7 (8M Cache, 2.50 GHz up to 4.50 GHz) and 8 GB DDR4-3200 MHz RAM (2 x 4 GB). It comes with 512 GB PCIe NVMe M.2 SSD.This laptop runs on Windows 10 Home 64-bit operating system. It offers Audio by B&O; Dual speakers; HP Audio Boost, Full-size, backlit, natural silver keyboard, TouchPad, HP Wide Vision 720p HD camera with integrated dual array digital microphones.",
-        "img": "https://i.ibb.co/Np9Wpyv/gsmarena-001-1.png"
+        "suplierName": "James John",
+        "description": "HP Pavilion x360 Convertible 14-dy1290TU Touch Laptop comes with Intel Core i5-1155G7 and 8 GB DDR4-3200 MHz RAM (2 x 4 GB). It comes with 512 GB PCIe NVMe M.2 SSD.This laptop runs on Windows 10 Home 64-bit operating system. It offers Audio by B&O; Dual speakers; HP Audio Boost.",
+        "img": "https://i.ibb.co/YhQ7TrR/gsmarena-001.png"
     },
     {
-        "id": 2,
+        "id": "2",
         "name": "Dell Inspiron 15 3511",
         "price": " 66,190",
         "quantity": "5",
-        "suplierName": "",
-        "description": "Laptop Brand - Dell, Laptop Series - Inspiron, Laptop Model - Dell Inspiron 15 3511, Processor Brand - Intel, Processor Type - Intel Core i3, Processor Generation - 11th Gen, Processor Model - Core i3 1115G4,Display Size - 15.6 Inch, Display Technology - FHD LED Display,Memory (RAM) - 4GB, Memory Type - DDR4, Memory Bus (MHz) - 2666 MHz, Storage - 256GB SSDOperating System - Windows 10 Home,Warranty - 2 Year.",
-        "img": "https://i.ibb.co/Cz99Fp5/img1.png"
+        "suplierName": "Robert James",
+        "description": "Laptop Brand - Dell, Laptop Series - Inspiron, Laptop Model - Dell Inspiron 15 3511, Processor Brand - Intel, Processor Type - Intel Core i3, Processor Generation - 11th Gen, Processor Model - Core i3 1115G4,Display Size - 15.6 Inch,Memory (RAM) - 4GB, Storage - 256GB SSD Operating System - Windows 10 Home,Warranty - 2 Year.",
+        "img": "https://i.ibb.co/7r6HZ9W/img1.png"
     },
     {
-        "id": 3,
+        "id": "3",
         "name": "Asus X515MA",
         "price": "38,520",
         "quantity": "5",
-        "suplierName": "",
-        "description": "Laptop Brand - Asus, Laptop Model - Asus X515MA, Processor Brand - Intel, Processor Type - Intel Celeron Dual Core, Processor Model - CDC N4020, Processor Base Frequency - 1.10 GHz, Processor Max Turbo Frequency - 2.80 GHz, Processor Core - 2, Processor Thread - 2, Processor Cache - 4MB, Display Size - 15.6 Inch, Display Technology - HD LED Display, Display Resolution - 1366 x 768, Memory (RAM) - 4GB, Memory Type - DDR4, Storage - 1TB HDD,Warranty - 2 Year International ",
-        "img": "https://i.ibb.co/b1RKMCm/img2.png"
+        "suplierName": "Michael William",
+        "description": "Laptop Brand - Asus, Laptop Model - Asus X515MA, Processor Brand - Intel, Processor Type - Intel Celeron Dual Core, Processor Model - CDC N4020, Processor Base Frequency - 1.10 GHz, Processor Core - 2,Display Size - 15.6 Inch, Memory (RAM) - 4GB, Storage - 1TB HDD,Warranty - 2 Year International ",
+        "img": "https://i.ibb.co/hKpxhkL/img2-1-1.png"
     },
     {
-        "id": 4,
+        "id": "4",
         "name": "Apple MacBook Pro",
         "price": " 126,950",
         "quantity": "6",
-        "suplierName": "",
-        "description": "Apple MacBook Pro Late 2020 Apple M1 Chip 13.3 Inch Retina Display Touch Bar and Touch ID Space Gray Laptop is a high range laptop in Bangladesh. Apple MacBook Pro (Late 2020) is a Apple brand laptop. Right Now available the Apple MacBook Pro Late 2020 Apple M1 Chip 13.3 Inch Retina Display Touch Bar and Touch ID Space Gray Laptop includes all Ryans computers branches and our website.RAM:8GB,Storage:512GB SSD,Warranty:1 year",
-        "img": "https://i.ibb.co/n3VvJz1/img3.png"
+        "suplierName": "David Richard",
+        "description": "Apple MacBook Pro Late 2020 Apple M1 Chip 13.3 Inch Retina Display Touch Bar and Touch Space Gray Laptop is a high range laptop in Bangladesh. Apple MacBook Pro (Late 2020) is a Apple brand laptop.RAM:8GB,Storage:512GB SSD,Warranty:1 year",
+        "img": "https://i.ibb.co/rF3DmRb/img3.png"
     },
     {
-        "id": 5,
+        "id": "5",
         "name": "Lenovo IdeaPad Slim 3i 15ITL",
         "price": "47,200",
         "quantity": "6",
-        "suplierName": "",
-        "description": "Laptop Brand- Lenovo, Laptop Model- Lenovo IdeaPad Slim 3i 15ITL, Processor Brand- Intel, Processor Type- Intel Core i3, Processor Generation- 10th, Processor Model- Core i3 1005G1, Processor Base Frequency- 1.20 GHz, Processor Max Turbo Frequency- 3.40 GHz, Processor Core- 2, Processor Thread- 4, Processor Cache- 4MB, Display Size- 15.6 Inch, Display Technology- HD IPS LED Display, Display Resolution- 1366 x 768, Display Surface- Anti-Glare, Memory (RAM)- 4GB, Memory Type- DDR4, Storage- 1TB HDD,Warranty- 2 Year International.",
-        "img": "https://i.ibb.co/68DwsYN/img4.png"
+        "suplierName": "Charles Joseph",
+        "description": "Laptop Brand- Lenovo, Laptop Model- Lenovo IdeaPad Slim 3i 15ITL, Processor Brand- Intel, Processor Type- Intel Core i3, Processor Generation- 10th, Processor Model- Core i3 1005G1,Processor Core- 2, Display Size- 15.6 Inch, Memory (RAM)- 4GB,Storage- 1TB HDD,Warranty- 2 Year International.",
+        "img": "https://i.ibb.co/W6t5sTR/img4.png"
     },
     {
-        "id": 6,
+        "id": "6",
         "name": "Avita LIBER V",
         "price": "96,570",
         "quantity": "5",
-        "suplierName": "",
-        "description": "Avita LIBER V Intel Core i7 10510U 14 Inch FHD Display Champagne Gold Laptop is a high range laptop in Bangladesh. Avita LIBER V is a Avita brand laptop.Avita LIBER V comes with 10th Gen Intel Core i7 10510U processor. The Processor base frequency is 1.80 GHz to 4.90 GHz. 10th Gen Intel Core i7 10510U has 4 core and 8 Thread.The Avita LIBER V laptop has DDR4 16GB RAM.Storage: 1TB SSD,Finger Print Sensor: Yes,Warranty: 2 year (Battery, Adapter 1 year)",
-        "img": "https://i.ibb.co/Vx6Ymhn/img5.png"
+        "suplierName": "Mark Daavid",
+        "description": "Avita LIBER V Intel Core i7 10510U 14 Inch FHD Display. Avita LIBER V comes with 10th Gen Intel Core i7 10510U processor. 10th Gen Intel Core i7 10510U has 4 core and 8 Thread.The Avita LIBER V laptop has DDR4 16GB RAM.Storage: 1TB SSD,Finger Print Sensor: Yes,Warranty: 2 year (Battery, Adapter 1 year)",
+        "img": "https://i.ibb.co/BzH4q9v/img5.png"
+    },
+    {
+        "id": "7",
+        "name": "Acer Extensa",
+        "price": "43,000",
+        "quantity": "4",
+        "suplierName": "Donald Anthony",
+        "description": "Acer Extensa 15 EX215-54-37AH Laptop comes with Intel Core i3-1115G4 (6M Cache, 3.00 GHz up to 4.10 GHz) and 4GB DDR4 RAM.70Wh Battery and has an AC power apapter. The Acer Extensa 15 EX215-54-37AH laptop has 2 years warranty. The laptop features Intel Wireless-AC 9461;Bluetooth 5.0 for wireless connectivity. ",
+        "img": "https://i.ibb.co/Gkpx2kq/img6.png"
+    },
+    {
+        "id": "8",
+        "name": " MSI Modern 14 B10MW 512GB SSD",
+        "price": "52800",
+        "quantity": "3",
+        "suplierName": "Steven Paul",
+        "description": "you are exploring campus life or pursuing your career, with the latest 10th Gen.The 39.3Whr battery provides up to 10 hours on-the-go usage, feel unconstrained in working and creating. Equipped with two USB-A and one USB-C ports, makes connecting devices easier.",
+        "img": "https://i.ibb.co/4W9w5Ym/img7.png"
+    },
+    {
+        "id": "9",
+        "name": "Huawei MateBook D15 Core i5 ",
+        "price": "73900",
+        "quantity": "4",
+        "suplierName": "Andrew Paul",
+        "description": "The Huawei MateBook D15 comes with Intel Core i5-1135G7 Processor and 8GB DDR4 RAM.The 11th Gen Intel Core processor makes everything that much faster. The Huawei MateBook D15 comes with a Full-size keyboard with Touchpad.The laptop has been designed with USB 3.2 Gen.",
+        "img": "https://i.ibb.co/D8Y1ShN/img8.png"
+    },
+    {
+        "id": "10",
+        "name": "Walton Prelude N41",
+        "price": "52,550",
+        "quantity": "3",
+        "suplierName": "Joshua Kenneth",
+        "description": "Walton Prelude N41 Laptop comes with Intel Gemini Lake N4100 processor (14nm, 1.1GHz, DDR4-2400MHz, 4MB Smart Cache, TDP: 6W), 4GB DDR4 2400MHz Onboard RAM.IPS Matte LED Backlit Display with 99% sRGB.This latest Walton Prelude N41 Laptop has 01 year warranty.",
+        "img": "https://i.ibb.co/fvBw0HD/img9.png"
+    },
+    {
+        "id": "11",
+        "name": "Xiaomi Redmi Book 14",
+        "price": "71,500",
+        "quantity": "4",
+        "suplierName": "Kebin Paul",
+        "description": "The laptop comes with AMD Ryzen 5 4500U Processor powers the device along with 8GB of DDR4 RAM.The RedmiBook 14 features a 14-inch Full HD display.RedmiBook 14 Ryzen Edition is up to 512GB of solid-state drive. The new RedmiBook 14 Ryzen Edition offers features like USB-C, 2 USB 2.0 ports, HDMI, 3.5mm audio jack.",
+        "img": "https://i.ibb.co/9pNT6MW/img10.png"
+    },
+    {
+        "id": "12",
+        "name": "Chuwi HeroBook Pro",
+        "price": "29,400",
+        "quantity": "3",
+        "suplierName": "Brian George",
+        "description": "Chuwi HeroBook 14.1-inch glare-proof screen brings you a wider view HeroBook enables up to 2.0GHz Turbo Boost speeds thanks to the 14-nm process technology and 5W ultra-low power design.Herobook of 8GB RAM, 256GB storage helps you run multiple apps seamlessly.A monstrous 38Wh polymer lithium-ion battery.",
+        "img": "https://i.ibb.co/7NBDt9r/img11.png"
     }
 ]
