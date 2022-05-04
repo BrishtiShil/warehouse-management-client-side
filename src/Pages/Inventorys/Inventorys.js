@@ -4,13 +4,14 @@ import './Inventorys.css';
 
 const Inventorys = () => {
     const [inventorys, setInventorys] = useState([]);
+
     useEffect(() => {
         fetch('http://localhost:5000/inventory')
             .then(res => res.json())
             .then(data => setInventorys(data));
     }, [])
     return (
-        <div >
+        <div className='container' >
             <h1 className='inventory-title mt-5'>Our Inventory</h1>
             <div className='inventory-container'>
                 {
