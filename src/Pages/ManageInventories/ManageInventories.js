@@ -1,4 +1,5 @@
 import React, { useEffect, useState } from 'react';
+import { Link } from 'react-router-dom';
 import ManageInventory from '../ManageInventory/ManageInventory';
 
 const ManageInventories = () => {
@@ -11,7 +12,6 @@ const ManageInventories = () => {
     }, [])
     return (
         <div className='container'>
-            <h1 className='inventory-title mt-5'>All Management Inventories</h1>
             <div className='inventory-container'>
                 {
                     manageInventories.map(manageInventory => <ManageInventory

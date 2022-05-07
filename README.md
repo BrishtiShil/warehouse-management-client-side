@@ -1,10 +1,18 @@
-# Getting Started with Create React App
+# Warehouse-Management-Side
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+ [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Features and Functionality
 
-In the project directory, you can run:
+<ol>
+<li>React Router</li>
+<li>React Router hook</li>
+<li>React Firebase hook</li>
+<li>React Bootstrap</li>
+<li>Firebase Authentication</li>
+<li>Mongodb Atlas</li>
+<li>Heroku</li>
+</ol>
 
 ### `npm start`
 

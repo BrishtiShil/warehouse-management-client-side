@@ -7,7 +7,9 @@
     display: block;
     width: 100%;
     height: 50px;
+    border-radius: 5px;
+    border-color: 1px solid lightslategray;
     padding-left: 10px;
-    font-size: 18px;
+    font-size: 16px;
     margin-bottom: 15px;
 }
