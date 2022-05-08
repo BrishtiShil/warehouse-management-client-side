@@ -1,7 +1,6 @@
 import React from 'react';
 import './MyInventories.css';
 import useInventories from '../../hooks/useInventories';
-// import delete from '../../../images/social/delete.png';
 
 const MyInventories = () => {
     const [inventorys, setInventorys] = useInventories();
@@ -27,8 +26,7 @@ const MyInventories = () => {
             <div className='review-item'>
                 {
                     inventorys.map(inventory => <div key={inventory._id}>
-                        <h4>{inventory.name}   <button onClick={() => handleDelete(inventory._id)}>delete
-                            {/* <img src={delete} alt="" /> */}
+                        <h4>{inventory.name}   <button onClick={() => handleDelete(inventory._id)}> delete
                         </button></h4>
                     </div>)
                 }
