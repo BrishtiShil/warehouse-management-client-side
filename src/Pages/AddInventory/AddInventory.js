@@ -28,7 +28,7 @@ const AddInventory = () => {
                 <input className='mb-2' placeholder='Price' type="number" {...register("price")} />
                 <input className='mb-2' placeholder='Photo URL' type="img" {...register("img")} />
                 <input className='mb-2' placeholder='suplierName' type="text" {...register("suplierName")} />
-                <input className='mb-2' placeholder='Quentity' type="number" {...register("quentity")} />
+                <input className='mb-2' placeholder='Quantity' type="number" {...register("quantity")} />
                 <input type="submit" value="Add item" />
             </form>
         </div>

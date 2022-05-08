@@ -4,6 +4,7 @@ import { Link } from 'react-router-dom';
 const ManageInventory = ({ manageInventory }) => {
     const { name, suplierName, description, img, price, quantity } = manageInventory;
 
+
     return (
         <div className='inventory'>
             <img className='w-100' src={img} alt="" />
@@ -13,7 +14,6 @@ const ManageInventory = ({ manageInventory }) => {
             <h5>Suplier Name: {suplierName}</h5>
             <p><strong>Details:</strong> {description}</p>
             <Link to={`/update/${manageInventory._id}`}><button>Delivered</button></Link>
-
         </div>
     );
 };
