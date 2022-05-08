@@ -1,8 +1,9 @@
 # Warehouse-Management-Side
 
- [Create React App](https://github.com/facebook/create-react-app).
+ Client site:
+ [https://warehouse-management-website.web.app/].
 
-## Features and Functionality
+## List of Technologies
 
 <ol>
 <li>React Router</li>
